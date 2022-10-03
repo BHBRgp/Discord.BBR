@@ -1,7 +1,7 @@
 --- Import Discord ---
 
 Import Discord:
-<import-tags src="imports.bbrlang.com/discord.bbr" id="discord"></import-tags>
+<import-tags src="imports.bbrlang.com/discord/manifest.json" id="discord"></import-tags>
 
 --- Bot Control ---
 
